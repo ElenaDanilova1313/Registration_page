@@ -1,3 +1,4 @@
+console.log('Hello');
 window.addEventListener('load', function () {
     let registration = true;
 
