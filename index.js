@@ -1,4 +1,5 @@
 console.log('Hello');
+console.log('message mytask user2');
 window.addEventListener('load', function () {
     let registration = true;
 
