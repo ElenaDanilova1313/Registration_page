@@ -6,6 +6,7 @@ p {
 div {
     border: 1px solid black;
     color: red;
+    font-size: 22px;
 }
 
 * {
