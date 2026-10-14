@@ -2,6 +2,7 @@ console.log('Hello');
 console.log('message mytask user2');
 console.log('message mytask user1');
 console.log('new message mytask user2');
+console.log('more changes mytask user1');
 
 window.addEventListener('load', function () {
     let registration = true;
